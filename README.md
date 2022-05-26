@@ -1,2 +1,3 @@
 # IT-Academy
-its 1st project 
+its 1st project whith git
+
